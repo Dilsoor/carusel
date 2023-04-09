@@ -1,5 +1,5 @@
 import "./App.css";
-import Carusel from "./components/carusel";
+import Carusel from "./components/Carusel";
 import { flowers } from "./components/Data";
 
 function App() {
